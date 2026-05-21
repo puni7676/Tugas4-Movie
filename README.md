@@ -1,8 +1,6 @@
 # Tugas4-Movie
 NIM 123240263
 
-# Tugas 4 - Movie CRUD
-
 Project ini merupakan aplikasi CRUD data movie menggunakan Java.
 
 ## Fitur
