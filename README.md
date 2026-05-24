@@ -1,6 +1,9 @@
 # Tugas4-Movie
 NIM 123240263
 
+Link Video Demo:
+https://youtu.be/nEFAmpuYJw0
+
 Project ini merupakan aplikasi CRUD data movie menggunakan Java.
 
 ## Fitur
